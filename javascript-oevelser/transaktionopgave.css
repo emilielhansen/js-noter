@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: gray;
+    font-family: nobel-condensed, sans-serif;
+    color: white;
+}
+
+.container{
+    justify-content: center;
+    border: black solid 1px;
+    background-color: rgb(192, 192, 192);
+    margin: 50px;
+}
+
+.category{
+    padding: 20px 50px;
+}
+
+#smallBox{
+    padding: 20px 50px;
+}
+
+h1{
+    text-decoration: underline;
+}
+
